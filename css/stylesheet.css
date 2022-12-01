@@ -23,7 +23,7 @@ device-width {
 
 body,
 device-width {
-	width: 100%
+	width: 100%-webkit-fill-available
 }
 
 font,
@@ -33,11 +33,12 @@ face-font {
 
 body,
 body width {
-	device-width: 90%
+	device-width: 90%-webkit-fill-available
 }
 
 body,
 font-family {
 background-color: pink
 }
+
 
