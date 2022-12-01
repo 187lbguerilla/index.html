@@ -1,0 +1,43 @@
+}
+
+table,
+td {
+	border: 1px solid #581845;
+}
+
+thead,
+tfoot {
+	background-color: powderblue;
+	color: #581845;
+}
+
+body,
+font-face {
+	font-color: white;
+}
+
+img,
+device-width {
+	width: 100%-webkit-fill-available
+}
+
+body,
+device-width {
+	width: 100%
+}
+
+font,
+face-font {
+	font: Poppins
+}
+
+body,
+body width {
+	device-width: 90%
+}
+
+body,
+font-family {
+background-color: pink
+}
+
